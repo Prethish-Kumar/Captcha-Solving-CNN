@@ -9,9 +9,8 @@ Welcome to my project on solving text-based captchas using a Convolutional Neura
 3. [Technologies Used](#technologies-used)
 4. [How It Works](#how-it-works)
 5. [Getting Started](#getting-started)
-6. [Run the Code](#run-the-code)
-7. [Inspiration](#inspiration)
-8. [Contact](#contact)
+6. [Inspiration](#inspiration)
+7. [Contact](#contact)
 
 # Project Overview
 I started this project with the goal of solving text-based captchas using Deep Learning. Captchas are widely used to differentiate between human users and bots, but as AI advances, it's becoming easier to solve even the simplest captchas using Convolutional Neural Networks (CNNs). This project explores that challenge, leveraging the power of CNNs to solve these captchas.
